@@ -37,8 +37,8 @@ Minha jornada é um encontro entre a precisão analítica e a criatividade do c�
 ## 🛠️ Stack em Desenvolvimento
 
 - **Linguagens**: Python, SQL, JavaScript
-- **Análise & BI**: Pandas, Power BI, etc.
-- **Web**: Explorando frameworks modernos
+- **Análise & BI**: Data Science | Análise de Dados Estratégicos | BI | ETL | DAX | SQL | Python | Estatística | Relatórios Gerenciais
+- **Web**: sublime-se.com.br
 - **Conceitos**: Data-driven development, arquitetura de dados
 
 ---
