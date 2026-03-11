@@ -8,7 +8,7 @@
 
 ## Quem sou eu?
 
-Sou **Carla Cristina**, analista de dados com **15+ anos de experiência**, especializada em transformar dados em insights estratégicos que impulsionam decisões empresariais. Atualmente, estou expandindo meus horizontes, mergulhando no fascinante mundo do **desenvolvimento de software**.
+Sou **Carla Cristina**, Analista de dados com **15+ anos de experiência**, especializada em transformar dados em insights estratégicos que impulsionam decisões empresariais. Atualmente, estou expandindo meus horizontes, mergulhando no fascinante mundo do **desenvolvimento de software**.
 
 Minha jornada é um encontro entre a precisão analítica e a criatividade do código — combinando análise crítica de dados com soluções de software inovadoras.
 
