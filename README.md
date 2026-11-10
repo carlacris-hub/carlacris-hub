@@ -8,9 +8,8 @@
 
 ## Quem sou eu?
 
-Sou **Carla Cristina**, Analista de dados com **15+ anos de experiência**, especializada em transformar dados em insights estratégicos que impulsionam decisões empresariais. Atualmente, estou expandindo meus horizontes, mergulhando no fascinante mundo do **desenvolvimento de software**.
-
-Minha jornada é um encontro entre a precisão analítica e a criatividade do código — combinando análise crítica de dados com soluções de software inovadoras.
+Com mais de quinze anos de experiência em análise de dados e gestão de processos, atuei em áreas estratégicas de organizações de grande porte, apoiando a alta gestão com relatórios gerenciais e dashboards executivos em DAX, Excel/VBA, SQL e Power BI. 
+Meu foco é transformar dados em decisões: estruturo KPIs, padronizo métricas, automatizo rotinas e fortaleço a governança para dar velocidade e confiabilidade às análises.Também atuo com inteligência artificial generativa — uso o Claude AI e seus recursos para análise e produção estratégica, desenvolvo aplicações com Cursor AI integradas ao GitHub, e estou aprendendo automações com n8n e banco de dados MongoDB.
 
 ---
 
