@@ -38,7 +38,7 @@ Minha jornada é um encontro entre a precisão analítica e a criatividade do c�
 
 - **Linguagens**: Python, SQL, JavaScript
 - **Análise & BI**: Data Science | Análise de Dados Estratégicos | BI | ETL | DAX | SQL | Python | Estatística | Relatórios Gerenciais
-- **Web**: sublime-se.com.br
+- **Web**: [solucoes.sublime-se.com](https://solucoes.sublime-se.com/)
 - **Conceitos**: Data-driven development, arquitetura de dados
 
 ---
